@@ -1,0 +1,21 @@
+AutoRezerwacja Log - 27.08.2025 21:42:35
+21:42:35.598 - Uruchamianie TryAutoReserveAsync
+21:42:35.598 - Inicjalizacja WebView2...
+21:42:35.682 - WebView2 zainicjalizowany
+21:42:35.742 - Ładowanie produktu: https://www.vaurioajoneuvo.fi/tuote/volkswagen-golf-farmari-ac-4ov-1968cm3-a-rji-566/
+21:42:35.746 - Rozpoczęcie nawigacji: https://www.vaurioajoneuvo.fi/tuote/volkswagen-golf-farmari-ac-4ov-1968cm3-a-rji-566/
+21:42:36.377 - Strona załadowana: https://www.vaurioajoneuvo.fi/tuote/volkswagen-golf-farmari-ac-4ov-1968cm3-a-rji-566/
+21:42:36.377 - Strona produktu wykryta (tuote w URL), kontynuuję...
+21:42:36.377 - Oczekiwanie na załadowanie strony...
+21:42:41.393 - Wykonywanie skryptu JavaScript...
+21:42:41.395 - JS: Wyszukiwanie przycisku Osta...
+21:42:41.395 - JS: Przycisk Osta znaleziony!
+21:42:41.398 - JS: Tekst przycisku: Osta
+21:42:41.399 - JS: Wyłączony: false
+21:42:41.399 - JS: Widoczność: true
+21:42:41.399 - Wynik skryptu: {}
+21:42:42.875 - JS: Bezpośrednie kliknięcie wykonane
+21:42:42.875 - Rozpoczęcie nawigacji: https://www.vaurioajoneuvo.fi/tilaus/volkswagen-golf-farmari-ac-4ov-1968cm3-a-rji-566/
+21:42:42.875 - SUKCES: Znaleziono stronę udanej rezerwacji!
+21:42:42.875 - Operacja zakończona: Sukces=True, Wynik=True
+21:42:46.431 - Formularz zamknięty

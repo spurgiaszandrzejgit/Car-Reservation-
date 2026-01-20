@@ -1,0 +1,4 @@
+MaxPriceScan = 20000
+MaxScanPerRun = 50
+RetryAfterMin = 10
+AutoReserveEnabled = 1
